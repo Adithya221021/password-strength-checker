@@ -25,7 +25,19 @@ Backend:
 
 Database:
 - MySQL
+## Screenshots
 
+### Password Strength Checker Output
+
+![Result](screenshots/result.png)
+
+### Weak Password Example
+
+![Weak Password](screenshots/weak_password.png)
+
+### Strong Password Example
+
+![Strong Password](screenshots/strong_password.png)
 ## Author
 
 Adithya B R  
